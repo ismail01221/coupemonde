@@ -1,1 +1,2 @@
-print("daosd")
+print("daosd")*
+print('sdqdq')
